@@ -1,2 +1,4 @@
 RENCANA:
-COBA"
+- Rencana 1
+- Rencana 2
+- Rencana 3
